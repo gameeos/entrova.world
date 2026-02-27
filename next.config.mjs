@@ -6,6 +6,7 @@ const nextConfig = {
       { hostname: "s3.gameplus.ai" },
     ],
   },
+  output: undefined,
 };
 
 export default nextConfig;
